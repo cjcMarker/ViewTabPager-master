@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vtpager</string>
+
+    <string name="app_m_home">vtp0</string>
+    <string name="app_m_cp">vtp1</string>
+    <string name="app_m_mes">vtp2</string>
+    <string name="app_m_my">vtp3</string>
+</resources>

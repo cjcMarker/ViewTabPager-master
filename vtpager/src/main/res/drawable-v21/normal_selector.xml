@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--水波纹颜色-->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/line_title">
+    <item>
+        <selector>
+            <item android:drawable="@color/color_w"/>
+        </selector>
+    </item>
+</ripple>

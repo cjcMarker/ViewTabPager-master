@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="line_title">@color/color_dc</color>
+    <color name="color_dc">#dcdcdc</color>
+    <color name="color_w">#ffffff</color>
+</resources>
